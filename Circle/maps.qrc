@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Maps/circleTestMap.txt</file>
+        <file>Maps/123.txt</file>
+        <file>pictures/grass.png</file>
+        <file>pictures/bones.png</file>
+        <file>pictures/tower.png</file>
+        <file>pictures/tower1.png</file>
+        <file>pictures/tower3.png</file>
+        <file>pictures/tower4.png</file>
+        <file>pictures/tree.png</file>
+        <file>pictures/sand.png</file>
+        <file>pictures/001.png</file>
+        <file>pictures/002.png</file>
+        <file>pictures/003.png</file>
+        <file>pictures/004.png</file>
+        <file>pictures/005.png</file>
+        <file>pictures/006.png</file>
+        <file>pictures/007.png</file>
+        <file>pictures/008.png</file>
+        <file>pictures/0001.png</file>
+        <file>pictures/water.png</file>
+        <file>pictures/stone1.png</file>
+        <file>pictures/stone2.png</file>
+        <file>pictures/stone3.png</file>
+        <file>pictures/water~01.png</file>
+        <file>pictures/fireball.png</file>
+        <file>pictures/meteor.png</file>
+        <file>pictures/agility.png</file>
+        <file>pictures/armor.png</file>
+        <file>pictures/damage.png</file>
+        <file>pictures/mech1.png</file>
+        <file>pictures/mech2.png</file>
+        <file>pictures/mech3.png</file>
+        <file>pictures/mech4.png</file>
+        <file>pictures/mech5.png</file>
+        <file>pictures/mech6.png</file>
+        <file>pictures/mech7.png</file>
+        <file>pictures/mech8.png</file>
+        <file>pictures/3D-Tree-psd88388.png</file>
+        <file>pictures/apteka.png</file>
+    </qresource>
+</RCC>
